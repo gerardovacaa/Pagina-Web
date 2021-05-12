@@ -665,10 +665,10 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .containerf {
-    padding-right: 1px;
-    padding-left: 1px;
-    margin-right: 50px;
-    margin-left:100px;
+    padding-right: 30px;
+    padding-left: 20px;
+    margin-right: 1px;
+    margin-left: 1px;
 }
 
 
